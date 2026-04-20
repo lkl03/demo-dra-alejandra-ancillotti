@@ -1,2 +1,7 @@
-# demo-dra-alejandra-ancillotti
-Demo web para Dra. Alejandra Ancillotti — diseñada por eterlab.
+# Dra. Alejandra Ancillotti
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
